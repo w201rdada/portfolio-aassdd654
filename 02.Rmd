@@ -8,7 +8,10 @@ It’s true that when interest rates increase, the cost of borrowing becomes mor
 The availability of capital and the demand for investment is also affected. 
 
 However, over the past thirty years, increases in Canadian mortgage rates have not tended to trigger a decrease in houses prices. In fact, more often than not the reverse is true. the average five-year residential mortgage lending rate (from Statistics Canada) and compared it to the average selling price of a Canadian home (provided in a report by the Canadian Real Estate Association), on a month-by-month basis from January 1980, up to June 2010. Over this period, totaling 365 months, there were 156 instances where the five-year residential mortgage rate increased over the prior month, and in 97 of these cases, house prices increased two months later. Is the higher interest rate as a good sign of better economy?
-#add the  chart of interest rate/avg house price between 1980 - 2010 
+
+#see the chart of interest rate/avg house price between 1980 - 2010:
+https://beta.theglobeandmail.com/globe-investor/personal-finance/housing-price-calcualtor-how-would-a-correction-affect-your-selling-price/article18079370/?ref=http://www.theglobeandmail.com&
+
 
 ## The Thoughts
 
