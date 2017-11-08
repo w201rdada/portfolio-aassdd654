@@ -1,21 +1,46 @@
-# More Interest, Lower House Price? {#slug-two}
+More Interest, Lower House Price? {#slug-two}
 
-#### Keywords
-real estate, interest, house price, behavioral psychology, the housing bubble 
+Keywords
 
-## The Puzzle
-It’s true that when interest rates increase, the cost of borrowing becomes more expensive. 
-The availability of capital and the demand for investment is also affected. 
+real estate, interest, house price, behavioral psychology, the housing bubble
 
-However, over the past thirty years, increases in Canadian mortgage rates have not tended to trigger a decrease in houses prices. In fact, more often than not the reverse is true. the average five-year residential mortgage lending rate (from Statistics Canada) and compared it to the average selling price of a Canadian home (provided in a report by the Canadian Real Estate Association), on a month-by-month basis from January 1980, up to June 2010. Over this period, totaling 365 months, there were 156 instances where the five-year residential mortgage rate increased over the prior month, and in 97 of these cases, house prices increased two months later. Is the higher interest rate as a good sign of better economy?
-#add the  chart of interest rate/avg house price between 1980 - 2010 
+The Puzzle
 
-## The Thoughts
+It’s true that the cost of borrowing becomes more expensive, the availability of capital is shrunk and the demand for investment is also affected when interest rates increase. 
 
-While it certainly is true that higher rates increase borrowing costs, but the increasing of interest rate also happens in periods with rising incomes, higher levels of employment and increasing consumer confidence. I want to take this chance to explore the relationship among the economy, interest rate, and the house price.
+However, over the past thirty years, increases in Canadian mortgage rates have not tended to trigger a decrease in houses prices. In fact, more often than not the reverse is true. the average five-year residential mortgage lending rate (from Statistics Canada) and compared it to the average selling price of a Canadian home (provided in a report by the Canadian Real Estate Association), on a month-by-month basis from January 1980, up to June 2010. Over this period, totaling 365 months, there were 156 instances where the five-year residential mortgage rate increased over the prior month, and in 97 of these cases, house prices increased two months later. 
+
+#see the chart of interest rate/avg house price between 1980 - 2010: https://beta.theglobeandmail.com/globe-investor/personal-finance/housing-price-calcualtor-how-would-a-correction-affect-your-selling-price/article18079370/?ref=http://www.theglobeandmail.com&
+
+The puzzles I want to solve here by behavior psychology can be quantified by the following survey question ideas: 
+1. How much increase or decrease of the interest rate will trigger the different investment desire from people who want to buy or sell the house? 
+2. Is there a satisfaction point to trigger people to make the profit by selling the house? for example, if the net profit value is over 10%,  the owner is likely to sell the house for quick money. 
+3. Is there a stop-loss point that people will not buy the house due to high-interest cost? even when the interest rate goes higher, but it may still be within people's patience for the investment desire. For example, the rental income can cover the HOA or interest payment, but not covering the principle of the mortgage in San Fransico, people will still buy the apartment as they believe the future increased value will eventually pay off the cost and they can at least make X% profit. 
 
 
-Additionally, I also want to introduce the behavioral psychology in the study. One of the assumptions here, people may become insensitive to the changes when time goes, in another word, the memory and forgetting may also be one of the numerous factors of the endurance of higher house price during the interest rate change process. In the analysis, I want to know if there are cyclical fluctuations along the interest rate change. 
+The Thoughts
 
-## The Goal
-The governments are using the interest rate much more frequently now as an important tool to drive the economy. For the housing industry heavily weighted cities like Vancouver, the increase or the decrease of the interest rate may or may not be the only key influencer of the house price. I want to use the analysis for the correlation to reveal the interrelation of the tool and the house price and provide the government some useful consultation suggestion for the economic policy. 
+Although the profit is the math problem, it is the satisfaction expectation of the future profit or loss to trigger people's movement. 
+
+I want to introduce the behavioral psychology in the study. 
+
+One of the applications of the behavioral psychology here, 
+1) in general, people may become insensitive to the changes when time goes. 
+In another word, the memory and forgetting may be one of the numerous factors of the endurance of higher house price during the interest rate change process. 
+2) in general, people are short-sighted. 
+In this case, it may well present how people make the decision based on the estimate of the future. 
+
+The study will help to explain why there is still irrational behavior during the housing boom with a going-up interest rate. 
+
+The Goal
+
+For the housing industry heavily weighted cities like Vancouver, the increase or the decrease of the interest rate may or may not be the only key influencer of the house price.
+
+I want to use the analysis to give a high-level opinion to the local government: 
+
+If the difference of (the assessment value of the house - purchased price) is accelerating to a certain level, the government shall expect how much more people will decide to sell for profit,  and how much more and more people will take the credit risk to buy the apartment for future profit even though interest rate is going up based on my sampling survey data. 
+
+To influence people's decision not to jump into a heated house market, there might be some new way other than the interest rate.
+
+A rough guess on the new ways:
+- a sad story for a bank broken person who bet on the housing boom in the media?  
