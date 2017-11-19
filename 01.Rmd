@@ -20,6 +20,7 @@ Will people leave house market when the interest rate go higher?
 These are the puzzles I try to reveal in this real estate market analysis. I would like to explore the population profile of the people in the real estate market, the community changes, and the city budget planning and enterprise developments in certain area, as well as the economic factors to find out how the real estate market moves, including the supplying side and also the demanding side. 
 
 ## My Thoughts
+
 From a daily experience, I can see several demand scenarios for buying or selling properties, for example:
 retired people looking for down-sized the apartment for easy management, 
 newly wed couple looking for first home, 
@@ -42,6 +43,9 @@ The reason I mention the period validty here, is the interest rate and mortgage 
 My analysis will begin with an EDA report and follow by detail analysis for each factors.
 
 ## My Goal
-I hope the reveal of the correlationship between the housing demand with the population profile, city development plan, location, and policy change factors (or even with interest rate, economic environment)will help people to think more comprehensively towards housing market.And I hope the model I build will help the buyer or seller find a better timing for the transaction. 
+
+I hope the reveal of the correlationship between the housing demand with the population profile, city development plan, location, and policy change factors (or even with interest rate, economic environment) will help people to think more comprehensively towards housing market.
+
+And I hope the model I build will help the buyer or seller find a better timing for the transaction. 
 
 
