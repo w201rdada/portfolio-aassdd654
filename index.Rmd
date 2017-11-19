@@ -1,7 +1,7 @@
 ---
-title: "W201 Portfolio"
+title: "UC Berkeley School of Information, Master’s of Information and Data Science"
 author: "Li Chu"
-date: "MIDS Fall 2017"
+date: "MIDS Fall 2017 - W201 Portfolio "
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -12,35 +12,33 @@ library(magrittr)
 ```
 
 
-# test6
+# Research Design and Applications for Data Analysis Projects
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+```{r realestate,echo=FALSE,fig.cap='real estate',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/worldcloud.png')
 ```
 
-test1
-
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-
-```{r test,echo=FALSE,fig.cap='test',fig.align='center'}
-knitr::include_url('https://drive.google.com/open?id=1wtk4QJj5ENwyMR8Fpuq_bwy00N0uNqEI')
-```
-
-## Abstract of my first cool idea
+## The Desicion Model of Real Estate Buyers and Sellers
 
 test2
 
-## Abstract of my second cool idea
+## More Interest, Lower House Price? 
 
 test3
   
-## Abstract of my third cool idea
+## TBD
 
-test4
+tbd...
 
 ## About the author
 
-test5
+Great interests in the real estate market analysis. Li believes that using data science tools can leverage the rich datasets available around urban planning, renters demographics, preferences, seasonality, economic conditions in specific markets to better guide capital decisions on acquiring property. She is looking for a better modeling which is not only taking macro business perspectives like "interest rate, land costs, development costs, fixture costs & any other sales and marketing costs to appeal to tenants into account and the micro business perspectives like MLS listings for similar properties, foreclosures, closeness to retail establishments, work sites, building profiles, parking spaces, energy footprint etc, but also the developing perspectives like the urban planning, economic geography, behavior psychology. 
+
+<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
+
+```{r intro,echo=FALSE,fig.cap='Intro',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1wtk4QJj5ENwyMR8Fpuq_bwy00N0uNqEI/view?usp=sharing')
+```
 
 *Updated: `r Sys.Date()`*
