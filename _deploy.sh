@@ -5,7 +5,7 @@ git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
 #delete old files
-rm /home/rstudio/docs/
+#rm /home/rstudio/docs/
 
 #copy _book files to folder docs
 cp -a /home/rstudio/_book/. /home/rstudio/docs/
