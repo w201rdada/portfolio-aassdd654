@@ -4,7 +4,9 @@
 git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
-cd _book
+rm _doc
+cp -a _book. _doc
+#cd _book
 git rm -rf *
 git add -f *
 git commit -m"Update the book"
