@@ -5,10 +5,10 @@ git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
 #delete old files
-rm docs
+rm /docs/
 
 #copy _book files to folder docs
-cp -a _book. docs
+cp -a /_book/. /docs/
 
 #cd _book
 
