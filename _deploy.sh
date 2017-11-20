@@ -4,9 +4,15 @@
 git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
+#delete old files
 rm _doc
-cp -a _book. _doc
+
+#copy _book files to folder docs
+cp -a _book. docs
+
 #cd _book
+
+#commit all the changes
 git rm -rf *
 git add -f *
 git commit -m"Update the book"
