@@ -4,8 +4,6 @@
 git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
-git checkout gh-pages
-
 cd _book
 git rm -rf *
 git add -f *
