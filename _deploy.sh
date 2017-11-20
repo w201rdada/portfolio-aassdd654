@@ -4,11 +4,13 @@
 git config --global user.email "lisa.chuli@gmail.com"
 git config --global user.name "aassdd654"
 
-# make sure you're on the master branch
-git checkout master
+git checkout gh-pages
 
+cd _book
 git rm -rf *
-cp -r ../_book/* ./
-git add --all *
+git add -f *
 git commit -m"Update the book"
 git push -q origin
+
+# make sure you're on the master branch
+git checkout master
