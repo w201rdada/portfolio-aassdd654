@@ -9,7 +9,7 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: yes
       before: |
-        <li><a href="./">Li Chu</a></li>
+        <li><a href="https://www.linkedin.com/in/chu-li-95946825/">Li Chu</a></li>
       after: |
         <li><a href="https://github.com/w201rdada/portfolio-aassdd654" target="blank">GitHub Page</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/li-chu" target="blank">iSchool People</a></li>
