@@ -31,10 +31,6 @@ The puzzles I want to solve here by behavior psychology can be quantified by the
 2. Is there a satisfaction point to trigger people to make the profit by selling the house? for example, if the net profit value is over 10%,  the owner is likely to sell the house for quick money. 
 3. Is there a stop-loss point that people will not buy the house due to high-interest cost? even when the interest rate goes higher, but it may still be within people's patience for the investment desire. For example, the rental income can cover the HOA or interest payment, but not covering the principle of the mortgage in San Fransico, people will still buy the apartment as they believe the future increased value will eventually pay off the cost and they can at least make X% profit. 
   
-## TBD
-
-TBD...
-
 ## About Li
 
 Li is studying master’s of information and data science @ UC Berkeley School of Information.
