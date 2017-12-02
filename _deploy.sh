@@ -5,7 +5,7 @@
 # git config user.name "Oski Bear"
 
 # make sure you're on the master branch
-git checkout master
+#git checkout master
 
 cd /home/rstudio/ \
 && rm -rf docs/ \
