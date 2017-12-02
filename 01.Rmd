@@ -1,6 +1,6 @@
-# The Desicion Model of Real Estate Buyers and Sellers
+# The Desicion Model of Real Estate Buyers and Sellers {#real-estate-decision-model}
 
-#### Keywords
+#### Keywords {-}
 
 real estate, house, apartment, city, population, house price, community, price, market, interest rate
 
